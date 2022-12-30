@@ -61,3 +61,11 @@ Finally.
 ![restartservice.png](restartservice.png)
 
 ![statusbot.png](statusbot.png)
+
+![fullstream.png](fullstream.png)
+
+![actions.png](actions.png)
+
+![401.png](401.png)
+
+![auth.png](auth.png)
