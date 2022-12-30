@@ -19,6 +19,13 @@ Capabilities:
   - Dump some system statistics like disk usage, CPU load, network connections, process list.
   - Negotiate only with you, by sender checking.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="scheme_black.png">
+  <source media="(prefers-color-scheme: light)" srcset="scheme.png">
+  <img alt="scheme_black.png" src="">
+</picture>
+
+
 ## Lazy installation guide.
 
 Prerequisites, Installation:
