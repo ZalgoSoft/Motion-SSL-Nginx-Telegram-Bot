@@ -1,0 +1,1 @@
+v4l2-ctl -c scene_mode=8,exposure_dynamic_framerate=1
