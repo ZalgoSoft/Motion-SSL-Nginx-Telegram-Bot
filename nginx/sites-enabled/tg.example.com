@@ -12,6 +12,11 @@ server {
         proxy_pass http://127.0.0.1:8081/;
     }
 
+    location /video {
+        rewrite /video/(.*) /$1 break;
+        proxy_pass http://127.0.0.1:1234/;
+    }
+
      location / {
          sub_filter_once off;
          sub_filter "http://127.0.0.1:8081" "https://$host/str";
